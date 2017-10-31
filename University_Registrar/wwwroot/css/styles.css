@@ -1,0 +1,16 @@
+
+body {
+    background-color: black;
+    color: #5b9ad9;
+    text-align: center;
+}
+.jumbotron {
+    text-align: center;
+    background-color: lightblue;
+}
+.well {
+    width: 30%;
+    background-color: lightblue;
+    margin-left: 35%;
+
+}
